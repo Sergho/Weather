@@ -58,6 +58,8 @@ $ node index.js -t "67123328145949a9b5e131414631711" -s "Москва"
 
 Примерный фариант ответа:
 ```bash
+Weather in Нижний Новгород:
+
 [2023-11-26]
 Temperature: -3.1/-0.7
 Weather conditions: Freezing fog
